@@ -65,7 +65,7 @@ const ToolbarContent = (props: Props) => {
         <LogoHeader
             image={<LogoSVGStyled />}
             onClick={handleLogoClick}
-            text="0x Collectibles"
+            text="CheezX"
             textColor={props.theme.componentsTheme.logoERC721TextColor}
         />
     );
